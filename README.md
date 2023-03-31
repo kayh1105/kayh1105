@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kayh1105
-- 🌱 I’m currently learning C# and blazor
+- 👋 Hi, I’m @kayh
+- 🌱 I’m currently learning C# 
 - 📫 How to reach me afiqahas92@gmail.com
 
 <!---
